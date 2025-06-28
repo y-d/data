@@ -1,3 +1,4 @@
 return {
-  "UmbraRuler"
+  "UmbraRuler",
+  "Azxqfy"
 }
