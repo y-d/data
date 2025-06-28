@@ -1,4 +1,5 @@
 return {
   "UmbraRuler",
-  "Azxqfy"
+  "Azxqfy",
+  "bitflagsluvsu"
 }
